@@ -5,7 +5,7 @@ btn.addEventListener('click', function(){
     let x = Math.random()*100;
     let y = Math.random()*100;
     let r = Math.floor(Math.random()*360);
-    let f = Math.floor(Math.random()*50);
+    let f = 10 + Math.floor(Math.random()*50);
     let motive = quote[Math.floor(Math.random()*quote.length)]
     let p = document.createElement('p');
     p.innerHTML = motive;
