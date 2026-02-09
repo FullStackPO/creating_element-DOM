@@ -1,4 +1,4 @@
-let quote = ["Dream big and dare to fail.", "Start where you are." , "Character is power.", "Either you run the day or the day runs you." , "Self-doubt kills talent." , "Stay hungry. Stay foolish." , "Everything you imagine is real."];
+let quote = ["Dream big and dare to fail.", "There is no tomorrow.", "Start where you are." , "Character is power.", "Either you run the day or the day runs you." , "Self-doubt kills talent." , "Stay hungry. Stay foolish." , "Everything you imagine is real."];
 let btn = document.querySelector('button');
 let main = document.querySelector('main');
 btn.addEventListener('click', function(){
